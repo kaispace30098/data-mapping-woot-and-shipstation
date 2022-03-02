@@ -1,5 +1,6 @@
 # data-mapping-woot-and-shipstation
 This is an interactive notebook for transforming data to feed into both of each platform bidirectionally. 
+We provide a guideline for importing orders in Bulk from Woot to Shipstation's manual orders without EDI and API.
 ![image](https://user-images.githubusercontent.com/93064471/156301965-81206195-ac9e-42c5-ab44-8cbf6a13be4d.png)
 
 First, we need to map the fields of the purchase orders from Woot Dropship Portal to the Shipstation in order to print the shipping labels.
